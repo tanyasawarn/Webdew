@@ -1,3 +1,3 @@
 # Webdew
 
-Make a Pull request and install live server to run files.
+Make a Pull request and install live server to run files in vs code
